@@ -1,5 +1,3 @@
-# seminario
+# Seminario de Inteligencia Artificial 1
 
-
-## Seminario de Inteligencia Artificial 1
 ## Javier Alejandro López Rangel
